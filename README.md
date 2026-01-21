@@ -22,4 +22,4 @@ It demonstrates both linear and non-linear classification of high-dimensional te
 2. Run all cells sequentially
 
 ## Author
-Your Name
+Priyadharshni S
